@@ -1,4 +1,4 @@
-### Hi there, I'm Vines - aka [vinesmsuic][https://vinesmsuic.github.io/about/] 👋
+### Hi there, I'm Vines - aka [vinesmsuic](https://vinesmsuic.github.io/about/) 👋
 
 - 🔭 I’m currently studying ... [Internet and Multimedia Technologies](https://www.eie.polyu.edu.hk/home/42477.html) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
 - 🌱 I’m currently self-learning ... [Data Science](https://vinesmsuic.github.io/categories/Data-Science/)
