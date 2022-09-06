@@ -5,3 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=vinesmsuic&color=blueviolet)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vinesmsuic&theme=onedark&no-bg=true)
+
+![](https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
