@@ -3,6 +3,8 @@
 - 📫 How to reach me ... wingfku2[AT]gmail[DOT]com
 
 ![](https://komarev.com/ghpvc/?username=vinesmsuic&color=blueviolet)
+<img src="https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/111.gif" width="100" height="100">
+
 
 ![](https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
