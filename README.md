@@ -1,5 +1,5 @@
 ### Hi there ~ 👋 <img src="https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/bongbongi2i.png" width="50" height="50"> 
-- 🌱 I am interested in 2D Image / 3D Vision related tech
+- 🌱 I care about generation and editing
 - 📝 My learning logs are on [Vines' Log](https://vinesmsuic.github.io)
 - 📫 How to reach me ... wingfku2[AT]gmail[DOT]com
 
